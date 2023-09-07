@@ -3,7 +3,7 @@
 
 <img align="right" alt="myImg" width="400" src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dthuong&label=Profile%20views&color=0e75b6&style=flat" alt="dthuong" /> </p>
+<img src="https://komarev.com/ghpvc/?username=dthuong&label=Profile%20views&color=0e75b6&style=flat" alt="dthuong" /> 
 
 - 🔭 I’m currently working on **TDTU**
 
