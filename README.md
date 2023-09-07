@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thượng</h1>
 <h3 align="center">A back-end developer from Viet Nam</h3>
 
-<img align="right" alt="myImg" width="400" src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif"
+<img align="right" alt="myImg" width="400" src="https://media.giphy.com/media/kudIERso2pFiE/giphy.gif"/>
 
 <img src="https://komarev.com/ghpvc/?username=dthuong&label=Profile%20views&color=0e75b6&style=flat" alt="dthuong" /> 
 
