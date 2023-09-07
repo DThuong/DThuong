@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://www.instagram.com/d_t.e.a/](https://www.instagram.com/d_t.e.a/)
 
-- 💬 Ask me about **Js, Express, MySQL, React**
+- 💬 Ask me about **: Js, Express, MySQL, React**
 
 - 📫 How to reach me **nguyendanhthuong161208@gmail.com**
 
-- 📄 Know about my experiences [No experimences outside](No experimences outside)
+- 📄 Know about my experiences: No experimences outside before
 
-- ⚡ Fun fact **I am handsome**
+- ⚡ Fun fact **: I am handsome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
